@@ -1,6 +1,7 @@
 # Razer Mute Link (Windows)
 
 Link your Razer headset’s mute button to any selected microphone. Runs in the system tray, remembers settings, and supports auto-start.
+(Mute your dedicated mic with your THX razer Audio AUX module)
 
 ## Features
 - Shared-mode HID listener (works alongside Synapse)
